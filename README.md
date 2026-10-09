@@ -8,7 +8,8 @@ Open `index.html` in a browser.
 ## Publish free with GitHub Pages
 1. Create a public repo named `Karissma24.github.io` on GitHub.
 2. Push `index.html` and this README to the `main` branch.
-3. The site goes live at https://karissma24.github.io
+3. The site goes live at [https://karissma24.github.io](https://karissma24.github.io/karissmaq-portfolio/)
+
 
 ## Updating content
 - **Resume:** replace `Karissma-Quinones-Resume.pdf` with a newer version (keep the same file name).
